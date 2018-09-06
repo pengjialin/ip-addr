@@ -1,5 +1,5 @@
 {
-  "name": "bis-gmbh/ip-addr",
+  "name": "pjialin/ip-addr",
   "description": "Manages IPv4 and IPv6 addresses and subnets",
   "keywords": ["php", "library", "ip", "ipv4", "ipv6", "cidr", "rfc791", "rfc4291", "rfc4632"],
   "type": "library",
